@@ -13,6 +13,3 @@
 - cd ./all-clear
 - npm install
 - npm start
-
-
-
