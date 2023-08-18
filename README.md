@@ -13,7 +13,7 @@
 <br>
 
 ### [ 주요 화면 설정 ]
-<br>
+<br> 
 
 ![Group 55](https://github.com/kyum-q/AllClear_React/assets/109158497/0606a3e0-5c0f-46f6-bf8d-bca951bed6d0)
 <br>
